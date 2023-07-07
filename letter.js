@@ -34,10 +34,10 @@ Anyway back to reality, what I'm saying is that you should be pampared with all 
 love and care the world has to offer. You a queen (maybe still a princess for now)>
 and you better be treated like one. Until someone does that for youuu, you'll have to>
 do that for yourself. Love yourself the mosttt and always take care of yourself.>
-A verrryyy verryyyy happpy birthdayyyy Annieeee!!
+A verrryyy verryyyy happpy birthdayyyy Annieeee!! >>
 
-a random stranger,
-(on the other side of the world)
+a random stranger,>
+(on the other side of the world)>
 Isshiki
 `
 var speed = 50;
